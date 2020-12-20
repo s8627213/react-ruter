@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ruter/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-ruter/static/js/main.508d2794.chunk.js",
+    "main.js.map": "/react-ruter/static/js/main.508d2794.chunk.js.map",
+    "runtime-main.js": "/react-ruter/static/js/runtime-main.b7151e05.js",
+    "runtime-main.js.map": "/react-ruter/static/js/runtime-main.b7151e05.js.map",
+    "static/js/2.0c066b46.chunk.js": "/react-ruter/static/js/2.0c066b46.chunk.js",
+    "static/js/2.0c066b46.chunk.js.map": "/react-ruter/static/js/2.0c066b46.chunk.js.map",
+    "static/js/3.ff8df0c7.chunk.js": "/react-ruter/static/js/3.ff8df0c7.chunk.js",
+    "static/js/3.ff8df0c7.chunk.js.map": "/react-ruter/static/js/3.ff8df0c7.chunk.js.map",
+    "index.html": "/react-ruter/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-ruter/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0c066b46.chunk.js.LICENSE.txt": "/react-ruter/static/js/2.0c066b46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7151e05.js",
+    "static/js/2.0c066b46.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.508d2794.chunk.js"
+  ]
+}
